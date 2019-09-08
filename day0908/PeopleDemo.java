@@ -121,7 +121,7 @@ class PingPangPlayer extends Player implements SpeakEnglish {
     }
 
     public void speak() {
-        System.out.println("乒乓球运动员学说英语");
+        System.out.println("乒乓球运动员学习说英语");
     }
     public void eat() {
         System.out.println("乒乓球运动员吃西红柿鸡蛋");
